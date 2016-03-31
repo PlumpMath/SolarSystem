@@ -1,0 +1,39 @@
+# ============================ #
+# SolarSystemSimulator Unity Project #
+# ============================ #
+SolarSystemSimulator/Temp/*
+SolarSystemSimulator/Obj/*
+SolarSystemSimulator/UnityGenerated/*
+SolarSystemSimulator/Library/*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+SolarSystemSimulator/ExportedObj/
+SolarSystemSimulator/*.svd
+SolarSystemSimulator/*.userprefs
+SolarSystemSimulator/*.csproj
+SolarSystemSimulator/*.pidb
+SolarSystemSimulator/*.suo
+SolarSystemSimulator/*.sln
+SolarSystemSimulator/*.user
+SolarSystemSimulator/*.unityproj
+SolarSystemSimulator/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+thumbs.db
+Builds
+*.csproj
+*.sln
+SolarSystemSimulator/Assets/__MACOSX/
+SolarSystemSimulator/Assets/__MACOSX.meta
